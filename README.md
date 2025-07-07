@@ -11,8 +11,6 @@ While there are still a couple of minor visual bugs (which don’t affect functi
 Special thanks to German Wikipedia user [**NEUROtiker**]([https://de.wikipedia.org/wiki/Benutzer:NEUROtiker](https://commons.wikimedia.org/wiki/User:NEUROtiker)), who created and released all the amino acid structure graphics into the public domain.  
 Having consistent, high-quality images made this project much easier.
 
----
-
 ## Requirements
 
 - Python 3.x
